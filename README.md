@@ -1,2 +1,8 @@
-# Fb-videos
-simple script for downloading public facebook videos with ruby
+```
+Usage : ruby fb-dl.rb [ url ] / [ file ]
+```
+
+• required httparty
+```
+gem install httparty
+```
